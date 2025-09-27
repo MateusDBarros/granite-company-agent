@@ -1,0 +1,12 @@
+pandas
+torch
+transformers
+datasets
+accelerate
+gradio
+huggingface-hub
+openpyxl
+xlsxwriter
+datasets
+peft
+bitsandbytes
