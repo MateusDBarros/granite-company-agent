@@ -86,6 +86,3 @@ This project is released under the Apache-2.0 License.
 - Hugging Face Transformers
 - PEFT: Parameter-Efficient Fine-Tuning
 - PyTorch
-
-### Author
-- Mateus Barros
